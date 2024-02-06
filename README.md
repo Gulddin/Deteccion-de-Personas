@@ -1,4 +1,4 @@
-# Deteccion de Personas
+# EL Deteccion de Personas 
 Detector y contador de personas por sectores con YOLOv8 de ULTRALYTICS
 
 A continuacion se presenta una interfaz grafica que cuenta con 2 TABs, en el primero se muestra una presentacion de los autores.
