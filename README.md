@@ -1,7 +1,7 @@
-# EL Deteccion de Personas 
+# Detección de Personas 
 Detector y contador de personas por sectores con YOLOv8 de ULTRALYTICS
 
-A continuacion se presenta una interfaz grafica que cuenta con 2 TABs, en el primero se muestra una presentacion de los autores.
+A continuación se presenta una interfaz grafica que cuenta con 2 TABs, en el primero se muestra una presentacion de los autores.
 
 ![Screenshot 2024-02-06 172608](https://github.com/Gulddin/Deteccion-de-Personas/assets/72138202/dabb545a-f2dd-4e54-95d7-bbfdb900f76d)
 
